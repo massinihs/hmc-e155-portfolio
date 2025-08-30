@@ -1,0 +1,15 @@
+
+---
+title: "My E155 Portfolio"
+image: images/headshot.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/massinihs
+    
+---
+
+Hello! I’m Massin Ihs, an engineering student at Harvey Mudd College.  
+I’m passionate about embedded systems, signal processing, and building cool projects in E155.  

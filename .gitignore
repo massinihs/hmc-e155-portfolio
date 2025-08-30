@@ -1,0 +1,7 @@
+# Quarto build output
+.quarto/
+_site/
+
+# System files
+.DS_Store
+Thumbs.db
