@@ -1,4 +1,10 @@
-# Quarto build output
+# Quarto cache and output
 .quarto/
 _site/
-/.quarto/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs or temporary
+*.log
