@@ -8,3 +8,6 @@ Thumbs.db
 
 # Logs or temporary
 *.log
+
+/.quarto/
+**/*.quarto_ipynb

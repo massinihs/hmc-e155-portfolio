@@ -1,0 +1,32 @@
+
+---
+title: "Lab 1 Report"
+author: Massin Ihs
+date: "`r Sys.Date()`"
+format:
+  html:
+    toc: true
+---
+
+# Introduction
+
+In this lab, a design was implemented on the UPduino v3.1 FPGA to operate a 7-segment display utilizing an onboard oscillaotor as a 48 MHz clock. This lab was also primarly used to regain familiarity with writing HDL code.
+
+# Design and Testing Methodology
+
+Using a 48 MHz onboard oscillator, the design was developed using a 7-segment display module that was then called by 
+
+# Technical Documentation
+
+The source code for the project can be found in the associated [Github repository](https://github.com/massinihs/e155-lab1.git).
+
+_Figure 1: Block diagram of the Verilog design._
+
+The block diagram in Figure 1 demonstrates the overall architecture of the design. The top  module lab1_mi includes one submodules: the 7 segment display module (segment)
+
+
+# Results and Discussion
+
+# Conclusion
+The design successfully operated a 7 segment display as well as blink an led based on the requirements. 
+# AI Prototype Summary 

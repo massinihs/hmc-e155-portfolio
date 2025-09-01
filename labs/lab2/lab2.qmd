@@ -1,0 +1,20 @@
+---
+title: "Lab 2 Report"
+author: Massin Ihs
+date: "`r Sys.Date()`"
+format:
+  html:
+    toc: true
+---
+
+# Introduction
+
+# Design and Testing Methodology
+
+# Technical Documentation
+
+# Results and Discussion
+
+# Conclusion
+
+# AI Prototype Summary (optional)
